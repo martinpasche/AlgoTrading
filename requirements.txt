@@ -1,0 +1,17 @@
+jupyter
+jupyterlab
+ipykernel
+ipywidgets
+notebook
+ipykernel
+ipython
+numpy 
+pandas
+matplotlib
+seaborn
+scipy
+xgboost
+scikit-learn
+scikit-optimize
+yfinance
+backtrader[plotting]
