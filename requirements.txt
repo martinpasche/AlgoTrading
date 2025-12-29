@@ -15,3 +15,6 @@ scikit-learn
 scikit-optimize
 yfinance
 backtrader[plotting]
+pyfolio-reloaded
+pandas_datareader
+vectorbt[full]
