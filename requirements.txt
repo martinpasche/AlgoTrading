@@ -13,7 +13,9 @@ scipy
 xgboost
 scikit-learn
 scikit-optimize
+statsmodels
 yfinance
+tables
 backtrader[plotting]
 pyfolio-reloaded
 pandas_datareader
