@@ -20,3 +20,6 @@ backtrader[plotting]
 pyfolio-reloaded
 pandas_datareader
 vectorbt[full]
+TA-Lib
+pykalman
+PyWavelets
