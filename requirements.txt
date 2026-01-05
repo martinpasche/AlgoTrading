@@ -23,3 +23,5 @@ vectorbt[full]
 TA-Lib
 pykalman
 PyWavelets
+sympy
+yellowbrick
