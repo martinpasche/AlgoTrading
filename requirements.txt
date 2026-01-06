@@ -25,3 +25,4 @@ pykalman
 PyWavelets
 sympy
 yellowbrick
+linearmodels
